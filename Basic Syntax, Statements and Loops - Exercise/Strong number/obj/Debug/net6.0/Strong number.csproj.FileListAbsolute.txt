@@ -1,0 +1,15 @@
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Strong number\bin\Debug\net6.0\Strong number.exe
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Strong number\bin\Debug\net6.0\Strong number.deps.json
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Strong number\bin\Debug\net6.0\Strong number.runtimeconfig.json
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Strong number\bin\Debug\net6.0\Strong number.dll
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Strong number\bin\Debug\net6.0\Strong number.pdb
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Strong number\obj\Debug\net6.0\Strong number.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Strong number\obj\Debug\net6.0\Strong number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Strong number\obj\Debug\net6.0\Strong number.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Strong number\obj\Debug\net6.0\Strong number.AssemblyInfo.cs
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Strong number\obj\Debug\net6.0\Strong number.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Strong number\obj\Debug\net6.0\Strong number.dll
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Strong number\obj\Debug\net6.0\refint\Strong number.dll
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Strong number\obj\Debug\net6.0\Strong number.pdb
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Strong number\obj\Debug\net6.0\Strong number.genruntimeconfig.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Strong number\obj\Debug\net6.0\ref\Strong number.dll

@@ -1,0 +1,15 @@
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Login\bin\Debug\net6.0\Login.exe
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Login\bin\Debug\net6.0\Login.deps.json
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Login\bin\Debug\net6.0\Login.runtimeconfig.json
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Login\bin\Debug\net6.0\Login.dll
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Login\bin\Debug\net6.0\Login.pdb
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Login\obj\Debug\net6.0\Login.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Login\obj\Debug\net6.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Login\obj\Debug\net6.0\Login.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Login\obj\Debug\net6.0\Login.AssemblyInfo.cs
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Login\obj\Debug\net6.0\Login.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Login\obj\Debug\net6.0\Login.dll
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Login\obj\Debug\net6.0\refint\Login.dll
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Login\obj\Debug\net6.0\Login.pdb
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Login\obj\Debug\net6.0\Login.genruntimeconfig.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Login\obj\Debug\net6.0\ref\Login.dll

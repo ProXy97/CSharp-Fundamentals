@@ -1,0 +1,15 @@
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Ages\bin\Debug\net6.0\Ages.exe
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Ages\bin\Debug\net6.0\Ages.deps.json
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Ages\bin\Debug\net6.0\Ages.runtimeconfig.json
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Ages\bin\Debug\net6.0\Ages.dll
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Ages\bin\Debug\net6.0\Ages.pdb
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Ages\obj\Debug\net6.0\Ages.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Ages\obj\Debug\net6.0\Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Ages\obj\Debug\net6.0\Ages.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Ages\obj\Debug\net6.0\Ages.AssemblyInfo.cs
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Ages\obj\Debug\net6.0\Ages.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Ages\obj\Debug\net6.0\Ages.dll
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Ages\obj\Debug\net6.0\refint\Ages.dll
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Ages\obj\Debug\net6.0\Ages.pdb
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Ages\obj\Debug\net6.0\Ages.genruntimeconfig.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Ages\obj\Debug\net6.0\ref\Ages.dll

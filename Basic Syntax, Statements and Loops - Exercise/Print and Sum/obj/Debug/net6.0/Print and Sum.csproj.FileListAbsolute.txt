@@ -1,0 +1,15 @@
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Print and Sum\bin\Debug\net6.0\Print and Sum.exe
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Print and Sum\bin\Debug\net6.0\Print and Sum.deps.json
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Print and Sum\bin\Debug\net6.0\Print and Sum.runtimeconfig.json
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Print and Sum\bin\Debug\net6.0\Print and Sum.dll
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Print and Sum\bin\Debug\net6.0\Print and Sum.pdb
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Print and Sum\obj\Debug\net6.0\Print and Sum.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Print and Sum\obj\Debug\net6.0\Print and Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Print and Sum\obj\Debug\net6.0\Print and Sum.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Print and Sum\obj\Debug\net6.0\Print and Sum.AssemblyInfo.cs
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Print and Sum\obj\Debug\net6.0\Print and Sum.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Print and Sum\obj\Debug\net6.0\Print and Sum.dll
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Print and Sum\obj\Debug\net6.0\refint\Print and Sum.dll
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Print and Sum\obj\Debug\net6.0\Print and Sum.pdb
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Print and Sum\obj\Debug\net6.0\Print and Sum.genruntimeconfig.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Print and Sum\obj\Debug\net6.0\ref\Print and Sum.dll

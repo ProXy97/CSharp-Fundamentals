@@ -1,0 +1,15 @@
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Vending Machine\bin\Debug\net6.0\Vending Machine.exe
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Vending Machine\bin\Debug\net6.0\Vending Machine.deps.json
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Vending Machine\bin\Debug\net6.0\Vending Machine.runtimeconfig.json
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Vending Machine\bin\Debug\net6.0\Vending Machine.dll
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Vending Machine\bin\Debug\net6.0\Vending Machine.pdb
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Vending Machine\obj\Debug\net6.0\Vending Machine.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Vending Machine\obj\Debug\net6.0\Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Vending Machine\obj\Debug\net6.0\Vending Machine.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Vending Machine\obj\Debug\net6.0\Vending Machine.AssemblyInfo.cs
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Vending Machine\obj\Debug\net6.0\Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Vending Machine\obj\Debug\net6.0\Vending Machine.dll
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Vending Machine\obj\Debug\net6.0\refint\Vending Machine.dll
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Vending Machine\obj\Debug\net6.0\Vending Machine.pdb
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Vending Machine\obj\Debug\net6.0\Vending Machine.genruntimeconfig.cache
+C:\Users\aleks\source\repos\Basic Syntax, Statements and Loops - Exercise\Vending Machine\obj\Debug\net6.0\ref\Vending Machine.dll
